@@ -4,7 +4,7 @@ package smartclimat.DonneeClasse;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Station {
+public class StationNathDouala {
         private int id;
         private String nom;
         private Map<Integer,Annee> annees;
